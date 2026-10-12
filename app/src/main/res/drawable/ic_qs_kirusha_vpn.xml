@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <!-- K stem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 135,195 L 170,195 L 170,317 L 135,317 Z" />
+    <!-- K upper arm -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 170,265 L 218,195 L 258,195 L 190,277 Z" />
+    <!-- K lower leg -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 178,250 L 262,317 L 218,317 L 155,273 Z" />
+    <!-- V left diagonal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 225,195 L 292,317 L 325,317 L 262,195 Z" />
+    <!-- V right diagonal with curved wing -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 292,317 L 358,220 C 368,205 385,195 415,195 L 415,226 C 394,226 384,236 374,252 L 325,317 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "KirushaVPN",
+  "description": "Material Design 3 VPN & Proxy client with Xray core, animated hero toggle, live speed notifications, Quick Settings tile and custom green theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
